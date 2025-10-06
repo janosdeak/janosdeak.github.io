@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Fear is the mind-killer.
+subtitle: Fear is the mind-killer
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gulf of Riga, Latvia :latvia:, Winter</p>
+    <p>Gulf of Riga, Latvia, Winter</p>
+    <p>Omicron Presei 8<\p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,11 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi Mortals,
+Greetings Mortals...
 
-Welcome to my page!
+to my page!
 
-A Hungarian dude born and raised in Slovakia. Theoretical Physics Master's degree at the University of Manchester obtained in 2024. Currently employed as an R&D Physicist but seeking new opportunities.
+I possess a Theoretical Physics Master's degree from The University of Manchester and I am currently being employed as an R&D Physicist at a Semiconductor Metrology company, however I am seeking new opportunities. Besides my day job (which currently soley serves as an income source, altough if an opportunity exciting enough emerges I would love to call it my work) I work on several things. I write short stories, mostly fictional in the genre of science fiction. In spite of that, currently I am working on a non-fiction novel about the life of the Hungarian youth in Slovakia, which is mostly based on mine and my peer's experience during our Gymnasium years. The mood of the work reflects on the reality shift from maffia-driven post-soviet Eastern Europe towards the American influenced Western European "idol".
 
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rk-j%C3%A1nosde%C3%A1k-069703296/)
