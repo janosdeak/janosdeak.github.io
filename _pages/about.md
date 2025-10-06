@@ -35,7 +35,6 @@ A Hungarian dude born and raised in Slovakia. Theoretical Physics Master's degre
 
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rk-j%C3%A1nosde%C3%A1k-069703296/)
-[E-mail](markxjanosdeak youknowwhatsymbol gmail.com)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
