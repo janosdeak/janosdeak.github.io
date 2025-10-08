@@ -439,7 +439,7 @@ ninja.data = [{
           title: 'My second short story got published accompanied by an interview (🇭🇺)',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement-LK-szeptember/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
