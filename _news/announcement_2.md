@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My second short story got published accompanied by an interview (🇭🇺)
-date: 2025-10-08 12:00:00-0000
+date: 2025-10-07 12:00:00-0000
 inline: false
 related_posts: false
 ---
