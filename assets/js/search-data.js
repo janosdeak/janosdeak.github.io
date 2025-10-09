@@ -429,11 +429,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-just-not-announce",
-          title: 'Just Not Announce',
+            },},{id: "news-announcement-6",
+          title: 'Announcement_6',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/just-not-announce/";
+              window.location.href = "/news/announcement_6/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
