@@ -429,15 +429,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-6",
-          title: 'Announcement_6',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
+            },},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
           title: 'My first short story got published (in print) in the Levél Kedvesemnek magazine....',
           description: "",
           section: "News",},{id: "news-my-second-short-story-got-published-accompanied-by-an-interview",
@@ -445,13 +437,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-4",
-          title: 'Announcement 4',
-          description: "",
-          section: "News",},{id: "news-an-announcement-with-a-non-existing-date",
-          title: 'An announcement with a non existing date.',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
