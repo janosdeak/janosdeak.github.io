@@ -434,11 +434,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
+          title: 'My first short story got published (in print) in the Levél Kedvesemnek magazine....',
           description: "",
           section: "News",},{id: "news-my-second-short-story-got-published-accompanied-by-an-interview",
           title: 'My second short story got published accompanied by an interview (🇭🇺)',
