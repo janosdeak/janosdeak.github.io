@@ -430,7 +430,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
-          title: 'My first short story got published **in print** in the Levél Kedvesemnek magazine...',
+          title: 'My first short story got published (*in print*) in the Levél Kedvesemnek magazine...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
