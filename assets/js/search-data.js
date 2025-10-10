@@ -429,15 +429,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-6",
-          title: 'Announcement_6',
+            },},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
+          title: 'My first short story got published **in print** in the Levél Kedvesemnek magazine...',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
-            },},{id: "news-my-first-short-story-got-published-in-print-in-the-levél-kedvesemnek-magazine",
-          title: 'My first short story got published (in print) in the Levél Kedvesemnek magazine....',
-          description: "",
-          section: "News",},{id: "news-my-second-short-story-got-published-accompanied-by-an-interview",
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-my-second-short-story-got-published-accompanied-by-an-interview",
           title: 'My second short story got published accompanied by an interview (🇭🇺)',
           description: "",
           section: "News",handler: () => {
