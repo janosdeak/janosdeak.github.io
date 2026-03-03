@@ -6,7 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jánosdeák
 middle_name:
 last_name: Márk
-contact_note: Személyes elérhetőségem: markxjanosdeak GUGAC gmail PONT com
+contact_note: >
+  Személyes elérhetőségem: markxjanosdeak GUGAC gmail PONT com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: > # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
   Készült az <a href="https://github.com/alshedivat/al-folio">al-folio</a> alapján.
