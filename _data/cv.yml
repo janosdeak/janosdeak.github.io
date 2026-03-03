@@ -1,18 +1,18 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Teljes név:
+      value: Jánosdeák Márk
+    - name: Életkor:
+      value: 25 év
+    - name: Beszélt nyelvek:
+      value: Magyar-Anyanyelv, Angol-Felsőfok, Szlovák-Felsőfok
 
-- title: Education
+- title: Oktatás
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: MPhys Theoretical Physics
+      institution: University of Manchester, Manchester, Egyesült Királyság
       year: 1905
       description:
         - Description 1.
